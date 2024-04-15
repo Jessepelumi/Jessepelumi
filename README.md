@@ -3,6 +3,9 @@
 ##### I am still, daily, figuring this journey out. I love learning and building.
 ##### I am a software engineer passionate about building (and occasionally designing) user-friendly digital products. I currently specialize in building front-end web applications and mobile applications, focusing on usability and simplicity.
 ##### In my free time I love to play FIFA, get on the pitch and play football with friends, or sit quietly and create fake scenarios in my head 😄 (P.S. I'm not crazy).
+##### I have a strong affinity for working in teams, and I believe that I am a good team player. I am always looking for new opportunities to apply my skills and contribute to a team's success.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeolad/), [Email](jesseoluwapelumi01@gmail.com)
 
 <!--
 **Jessepelumi/Jessepelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
