@@ -1,6 +1,6 @@
 ### Hi 👋 - Welcome to my cove
 ##### You can call me JEOLAD - It is nothing fancy, it's just a combination of the initials of my name.
-##### I am still, daily, figuring this journey out. I love learning and building.
+##### I love learning and building, and I am still figuring this journey out. 
 ##### I am a software engineer passionate about building (and occasionally designing) user-friendly digital products. I currently specialize in building front-end web applications and mobile applications, focusing on usability and simplicity.
 ##### In my free time I love to play FIFA, get on the pitch and play football with friends, or sit quietly and create fake scenarios in my head 😄 (P.S. I'm not crazy).
 ##### I have a strong affinity for working in teams, and I believe that I am a good team player. I am always looking for new opportunities to apply my skills and contribute to a team's success.
