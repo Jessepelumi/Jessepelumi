@@ -1,9 +1,8 @@
-### Hi 👋 - Welcome to my cove
-##### You can call me JEOLAD - It is nothing fancy, it's just a combination of the initials of my name.
-##### I love learning and building, and I am still figuring this journey out. 
-##### I am a software engineer passionate about building (and occasionally designing) user-friendly digital products. I currently specialize in building front-end web applications and mobile applications, focusing on usability and simplicity.
-##### In my free time I love to play FIFA, get on the pitch and play football with friends, or sit quietly and create fake scenarios in my head 😄 (P.S. I'm not crazy).
-##### I have a strong affinity for working in teams, and I believe that I am a good team player. I am always looking for new opportunities to apply my skills and contribute to a team's success.
+I specialize in building highly scalable and functional applications with a strong focus on user experience. My expertise spans both front-end and back-end development for mobile and web platforms.
+
+I thrive in collaborative environments, having both led and contributed to successful teams.
+
+I'm always looking to expand my network and explore new opportunities for collaboration. Feel free to send me an email or reach out to me on LinkedIn or X.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeolad/), [Email](mailto:jesseoluwapelumi01@gmail.com)
 
