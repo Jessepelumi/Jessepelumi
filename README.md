@@ -2,9 +2,7 @@ I specialize in building highly scalable and functional applications with a stro
 
 I thrive in collaborative environments, having both led and contributed to successful teams.
 
-I'm always looking to expand my network and explore new opportunities for collaboration. Feel free to send me an email or reach out to me on LinkedIn or X.
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeolad/), [Email](mailto:jesseoluwapelumi01@gmail.com)
+I'm always looking to expand my network and explore new opportunities for collaboration. Feel free to [e-mail](mailto:jesseoluwapelumi01@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/jeolad/) or [X](https://x.com/jeolad_?s=09).
 
 <!--
 **Jessepelumi/Jessepelumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
